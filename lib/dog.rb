@@ -1,13 +1,10 @@
-class Dog < ParentClass
-  def initialize(args)
-    
-  end
-
-fido = dog.new
-snoopy = dog.new
-lassie = dog.ner
-
-
-  
-  
+class Dog
 end
+
+fido = Dog.new
+snoopy = Dog.new
+lassie = Dog.new
+
+
+  
+  
